@@ -1,0 +1,18 @@
+﻿  GradoviStorage.cpp
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\Kanton.h(5,15): error C2011: 'Kanton': 'struct' type redefinition
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\Kanton.h(5): message : see declaration of 'Kanton'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\KantoniStorage.h(8,49): error C2027: use of undefined type 'Kanton'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\Kanton.h(5): message : see declaration of 'Kanton'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\KantoniStorage.h(15,1): error C2027: use of undefined type 'Kanton'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\Kanton.h(5): message : see declaration of 'Kanton'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\KantoniStorage.h(24,1): error C2027: use of undefined type 'Kanton'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\Kanton.h(5): message : see declaration of 'Kanton'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\GradoviStorage.cpp(13,29): error C2027: use of undefined type 'Kanton'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\Kanton.h(5): message : see declaration of 'Kanton'
+  SahovskaTabla.cpp
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\SahovskaTabla.cpp(74,21): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\SahovskaTabla.cpp(74,17): warning C4309: '=': truncation of constant value
+  Zadatak6.cpp
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\Zadatak6.cpp(61,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Deni\Desktop\General\Faks\Programiranje1-Instrukcije-dev\Programiranje1-Instrukcije-dev\Project1\Zadatak6.cpp(62,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
